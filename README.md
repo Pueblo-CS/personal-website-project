@@ -28,8 +28,10 @@ Essentially, you need to demonstrate what you were supposed to learn from each o
 |1 use of a table|	2|
 |2 or more uses of style attribute (color, background-color, font-size, text-align)|	2|
 |HTML code styled properly: all lowercase, indented properly, no missing end tags or extra tags|	2|
-|Visible website looks nice: Standard grammar, capitalization, punctuation rules followed, images sized well to fit into the page, images have alt text, headings, paragraphs, lists, tables are used to organize text on the screen. 2-3 colors used to create a color theme|	4|
+|Visible website looks nice: Standard grammar, consistent capitalization, standard punctuation rules followed, images sized well to fit into the page, images have alt text, headings, paragraphs, lists, tables are used to organize text on the screen. 2-3 colors used to create a color theme, alignment and spacing used to arrange elements to fit on the screen nicely|	4|
 |Images are licensed for use and cited|	1|
+|**EXTRA CREDIT** More than one html page| 1+|
+|**EXTRA CREDIT** Extra content beyond project requirements| 1+|
 
 ## Publishing your Website
 1. Login to [Github.com](https://www.github.com)
@@ -37,4 +39,4 @@ Essentially, you need to demonstrate what you were supposed to learn from each o
 3. Click **Settings** (all the way to the right on the top menu bar) ![Settings](https://docs.github.com/assets/cb-28260/mw-1440/images/help/repository/repo-actions-settings.webp)
 4. Click **Pages** on the left menu ![Pages](https://media.geeksforgeeks.org/wp-content/uploads/20230613132412/Github-Pages.jpeg)
 5. Under Branch, use the dropdown to change from **none** to **main**
-6. Give a few minutes and then refresh the page to get your link ![Link](https://media.geeksforgeeks.org/wp-content/uploads/20230613132450/Visit-your-Site.jpeg)
+6. Give it a few minutes and then refresh the page to get your link ![Link](https://media.geeksforgeeks.org/wp-content/uploads/20230613132450/Visit-your-Site.jpeg)
